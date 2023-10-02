@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project3</string>
+    <string name="emoji">👌</string>
+    <string name="header">Great choice!</string>
+    <string name="sub_Heading" >You will Offset your 5.2 ton carbon \n footprint by</string>
+    <string name="planting_description" >Planting trees</string>
+    <string name="solar_description" >Building solar power</string>
+    <string name="stove_description" >Providing cook stoves</string>
+</resources>
